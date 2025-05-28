@@ -18,7 +18,7 @@ This was a **group project** developed as part of a university course. I contrib
 
 ---
 
-## What You'll Learn
+## What The Project Covers
 
 This project uses core programming concepts like:
 
